@@ -7,11 +7,10 @@ Note: Dexter is still under development. New features will be added every week
 
 
 
-
-
-![Screenshot of the GUI](https://github.com/johnkdunyo/Dexter-PyBot/blob/master/gui.png)
+![Screenshot of the gui](https://github.com/johnkdunyo/Dexter-PyBot/blob/master/gui.png)
 
 
 
+==========================================================================================
 
 John K Dunyo © 2020
